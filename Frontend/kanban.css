@@ -1,0 +1,11 @@
+.kanban-board{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.kanban-block{
+    width: 350px;
+    height: 100%;
+    background: rgb(182, 182, 182);
+}
